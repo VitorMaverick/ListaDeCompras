@@ -18,3 +18,4 @@ C:\Users\pcrick\Documents\Visual Studio 2022\ListaDeCompras\ListaDeCompras\obj\D
 C:\Users\pcrick\Documents\Visual Studio 2022\ListaDeCompras\ListaDeCompras\bin\Debug\net7.0-windows\MySqlConnector.dll
 C:\Users\pcrick\Documents\Visual Studio 2022\ListaDeCompras\ListaDeCompras\obj\Debug\net7.0-windows\ListaDeCompras.csproj.CopyComplete
 C:\Users\pcrick\Documents\Visual Studio 2022\ListaDeCompras\ListaDeCompras\obj\Debug\net7.0-windows\ListaDeCompras.View.MDIContainerView.resources
+C:\Users\pcrick\Documents\Visual Studio 2022\ListaDeCompras\ListaDeCompras\obj\Debug\net7.0-windows\ListaDeCompras.View.ProdutoView.resources

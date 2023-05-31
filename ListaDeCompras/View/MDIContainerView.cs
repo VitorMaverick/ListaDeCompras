@@ -23,5 +23,12 @@ namespace ListaDeCompras.View
             casa.MdiParent = this;
             casa.Show();
         }
+
+        private void produtosToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            ProdutoView produto = new ProdutoView();
+            produto.MdiParent = this;
+            produto.Show();
+        }
     }
 }

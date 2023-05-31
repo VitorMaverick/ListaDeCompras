@@ -1,8 +1,13 @@
-﻿namespace ListaDeCompras.Model
-{
-    public class Casa
-    {
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
 
+namespace ListaDeCompras.Model
+{
+    internal class Casa
+    {
         public Casa()
         {
         }
@@ -22,3 +27,4 @@
         public DateTime DtRenovacao { get; set; }
     }
 }
+

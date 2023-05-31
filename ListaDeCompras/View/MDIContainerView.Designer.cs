@@ -30,13 +30,14 @@
         {
             menuStrip1 = new MenuStrip();
             casasToolStripMenuItem = new ToolStripMenuItem();
+            produtosToolStripMenuItem = new ToolStripMenuItem();
             menuStrip1.SuspendLayout();
             SuspendLayout();
             // 
             // menuStrip1
             // 
             menuStrip1.ImageScalingSize = new Size(20, 20);
-            menuStrip1.Items.AddRange(new ToolStripItem[] { casasToolStripMenuItem });
+            menuStrip1.Items.AddRange(new ToolStripItem[] { casasToolStripMenuItem, produtosToolStripMenuItem });
             menuStrip1.Location = new Point(0, 0);
             menuStrip1.Name = "menuStrip1";
             menuStrip1.Size = new Size(800, 28);
@@ -49,6 +50,13 @@
             casasToolStripMenuItem.Size = new Size(60, 24);
             casasToolStripMenuItem.Text = "Casas";
             casasToolStripMenuItem.Click += casasToolStripMenuItem_Click;
+            // 
+            // produtosToolStripMenuItem
+            // 
+            produtosToolStripMenuItem.Name = "produtosToolStripMenuItem";
+            produtosToolStripMenuItem.Size = new Size(82, 24);
+            produtosToolStripMenuItem.Text = "Produtos";
+            produtosToolStripMenuItem.Click += produtosToolStripMenuItem_Click;
             // 
             // MDIContainerView
             // 
@@ -70,5 +78,6 @@
 
         private MenuStrip menuStrip1;
         private ToolStripMenuItem casasToolStripMenuItem;
+        private ToolStripMenuItem produtosToolStripMenuItem;
     }
 }
