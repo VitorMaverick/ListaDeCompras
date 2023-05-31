@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>ListaDeCompras</id>
+    <version>1.0.0</version>
+    <authors>ListaDeCompras</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net7.0-windows7.0" />
+    </dependencies>
+    <frameworkReferences>
+      <group targetFramework="net7.0-windows7.0">
+        <frameworkReference name="Microsoft.WindowsDesktop.App.WindowsForms" />
+      </group>
+    </frameworkReferences>
+  </metadata>
+  <files>
+    <file src="C:\Users\pcrick\Documents\Visual Studio 2022\ListaDeCompras\ListaDeCompras\bin\Debug\net7.0-windows\ListaDeCompras.runtimeconfig.json" target="lib\net7.0-windows7.0\ListaDeCompras.runtimeconfig.json" />
+    <file src="C:\Users\pcrick\Documents\Visual Studio 2022\ListaDeCompras\ListaDeCompras\bin\Debug\net7.0-windows\ListaDeCompras.dll" target="lib\net7.0-windows7.0\ListaDeCompras.dll" />
+  </files>
+</package>

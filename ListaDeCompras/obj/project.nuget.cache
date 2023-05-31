@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Qreww5pUBye5TSBlxJIFsGH4icI+ZYmVx0vt9m3OObEi2GoQuctlnLAhczBdOWRK8j0UGtVucN0yjByaBiEAyg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\pcrick\\Documents\\Visual Studio 2022\\ListaDeCompras\\ListaDeCompras\\ListaDeCompras.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pcrick\\.nuget\\packages\\mysqlconnector\\2.2.6\\mysqlconnector.2.2.6.nupkg.sha512"
+  ],
+  "logs": []
+}
