@@ -4,5 +4,8 @@
     <Compile Update="View\CasaView.cs">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Update="View\MDIContainerView.cs">
+      <SubType>Form</SubType>
+    </Compile>
   </ItemGroup>
 </Project>
